@@ -53,5 +53,5 @@ const boburovdev = {
   skills: ["React", "Next.js", "TailwindCSS", "GSAP", "NestJS"],
   loves: ["clean code", "UI/UX", "open source", "teaching"],
   location: "Uzbekistan",
-  portfolio: "https://boburovdev.vercel.app/"
+  portfolio: "https://boburov.uz/"
 }
