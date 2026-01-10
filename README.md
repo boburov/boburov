@@ -76,3 +76,4 @@ const boburovdev = {
   location: "Uzbekistan",
   portfolio: "https://boburov.uz/"
 }
+```
