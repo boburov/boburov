@@ -44,9 +44,10 @@
 <tr> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=bootstrap" width="60" /><br/>Bootstrap </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=materialui" width="60" /><br/>MUI </td> 
-<td align="center" width="100"> <img src="https://skillicons.dev/icons?i=gsap" width="60" /><br/>GSAP </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=nodejs" width="60" /><br/>Node.js </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=nestjs" width="60" /><br/>NestJS </td> 
+<td align="center" width="100"> <img src="https://skillicons.dev/icons?i=python" width="60" /><br/>Python </td> 
+<td align="center" width="100"> <img src="https://skillicons.dev/icons?i=dart" width="60" /><br/>Dart </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=mongodb" width="60" /><br/>MongoDB </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=postgres" width="60" /><br/>PostgreSQL </td> 
 </tr> 
@@ -61,8 +62,6 @@
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=docker" width="60" /><br/>Docker </td> 
 </tr> 
 <tr> 
-<td align="center" width="100"> <img src="https://skillicons.dev/icons?i=python" width="60" /><br/>Python </td> 
-<td align="center" width="100"> <img src="https://skillicons.dev/icons?i=dart" width="60" /><br/>Dart </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=flutter" width="60" /><br/>Flutter </td> 
 </tr> </table> <br clear="all"/>
 <br/>
