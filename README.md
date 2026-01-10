@@ -69,11 +69,12 @@
 ## 👨‍💻 About Me (as code)
 ```ts
 const boburovdev = {
-  name: "Boburov Shukurullo",
+  name: "Boburov",
   role: "Frontend Developer & Educator",
   skills: ["React", "Next.js", "TailwindCSS", "GSAP", "NestJS"],
   loves: ["clean code", "UI/UX", "open source", "teaching"],
   location: "Uzbekistan",
   portfolio: "https://boburov.uz/"
 }
+
 ```
