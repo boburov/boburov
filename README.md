@@ -58,11 +58,10 @@
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=aws" width="60" /><br/>AWS S3 </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=npm" width="60" /><br/>npm </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=prisma" width="60" /><br/>Prisma </td> 
-<td align="center" width="100"> <img src="https://skillicons.dev/icons?i=postman" width="60" /><br/>Postman </td> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=docker" width="60" /><br/>Docker </td> 
+<td align="center" width="100"> <img src="https://skillicons.dev/icons?i=flutter" width="60" /><br/>Flutter </td> 
 </tr> 
 <tr> 
-<td align="center" width="100"> <img src="https://skillicons.dev/icons?i=flutter" width="60" /><br/>Flutter </td> 
 </tr> </table> <br clear="all"/>
 <br/>
 <br clear="all"/>
