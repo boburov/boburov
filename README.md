@@ -12,24 +12,17 @@
   Let's turn ideas into stunning web experiences 🌍
 </p>
 <p align="left">
-  <a href="https://www.instagram.com/boburov.dev/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  </a>
-  <a href="https://www.youtube.com/@boburovdev">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/boburovdev/">
-    <img src="https://img.shields.io/badge/LinkedIn-%231DA1F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-  </a>
-  <a href="https://t.me/boburovdev/">
+  <a href="https://t.me/rovixwb/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white">
   </a>
-  <a href="https://x.com/boburovdev">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white">
+  <a href="info@boburov.uz">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
 ---
 ## ⚙️ My Favorite Tools & Technologies
+
 <table align="left"> 
 <tr> 
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=html" width="60" /><br/>HTML5 </td> 
@@ -65,6 +58,7 @@
 </tr> </table> <br clear="all"/>
 <br/>
 <br clear="all"/>
+
 ## 👨‍💻 About Me (as code)
 
 ```ts
