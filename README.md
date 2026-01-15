@@ -55,7 +55,10 @@
 <td align="center" width="100"> <img src="https://skillicons.dev/icons?i=flutter" width="60" /><br/>Flutter </td> 
 </tr> 
 <tr> 
-</tr> </table> <br clear="all"/>
+</tr> 
+</table>
+
+<br clear="all"/>
 <br/>
 <br clear="all"/>
 
