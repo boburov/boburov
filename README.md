@@ -15,8 +15,11 @@
   <a href="https://t.me/rovixwb/">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=Telegram&logoColor=white">
   </a>
-  <a href="info@boburov.uz">
+    <a href="info@boburov.uz">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://leetcode.com/u/LOBnRJ3W2g">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=white">
   </a>
 </p>
 
